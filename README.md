@@ -1,2 +1,4 @@
 # rulepackage
-ArcGIS CityEngine rulepackage(.rpk) files 
+ArcGIS CityEngine 规则包(.rpk) 文件。
+## 更新日志
+
